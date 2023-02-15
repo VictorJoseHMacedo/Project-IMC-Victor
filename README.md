@@ -6,6 +6,6 @@ e diz também em qual classificação você está!
 
 
 I did a project a little bit different, to train my JS. 
-I did a IMC calculator, where you put your weight and your height, and after you click on button show right below your IMC,
-and say which rank are you in!
+I did a IMC calculator, where you put your weight and your height, and after clicking the button it shows you right below your IMC,
+and it says what rank you are in!
 
